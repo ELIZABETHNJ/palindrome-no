@@ -19,11 +19,11 @@ public class Palindromeno
     }
     if(b==reverse)
     {
-      System.out.println("The given integer is palindrome");
+      System.out.println("The given number is palindrome");
     }
     else
     {
-      System.out.println("the given integer is not palindrome");
+      System.out.println("the given number is not palindrome");
     }
   }
 }
